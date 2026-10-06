@@ -216,4 +216,4 @@ gBurner Virtual Drive is the full free version, providing all features and updat
 Ready to enhance your disc image management? **Download gBurner Virtual Drive FREE** today and experience its powerful features!
 
 ---
-**Last updated:** 2026-10-05 23:39:14 UTC
+**Last updated:** 2026-10-06 04:34:18 UTC
